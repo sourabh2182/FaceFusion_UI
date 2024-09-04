@@ -16,10 +16,6 @@ Credits: I didn't make everything alone, every port has his own credits in it, t
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Run NO UI<a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_Headless_No_UI.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ## Hugging Face Space
 
 **CURRENTLY, ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
